@@ -1,0 +1,511 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.logo{
+    color: #F9F9F9;
+    font-size: 18px;
+    font-weight: 500;
+    position: absolute;
+    top: 36px;
+    left: 22px;
+
+}
+body {
+    background: #FAF4F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+main {
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 125px;
+    flex-direction: column;
+
+
+}
+
+.introductory {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 167px;
+    margin-top: 100px;
+}
+
+section.introductory>img {
+    box-shadow: 0 10px 30px #e3daec;
+    border-radius: 50%;
+    margin-top: -90px;
+
+}
+
+section.introductory > div {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+
+section.introductory > div > h1 {
+    width: 475px;
+    color: #222;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+section.introductory > div > p {
+    width: 509px;
+    height: 144px;
+    color: #222;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 7px 0 54px 0;
+}
+section.introductory > div >nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+section.introductory > div > div {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.send-request {
+    width: 151px;
+    height: 55px;
+    border-radius: 10px;
+    background: #FF2950;
+}
+
+.send-request a {
+    color: #F9F9F9;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.download-CV {
+    width: 153px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #FF9B70;
+}
+
+.download-CV a {
+    color: rgba(34, 34, 34, 0.50);
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.experience {
+    width: 100%;
+    height: 519px;
+    border-radius: 35px;
+    background: #FF7315;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    padding: 63px 76px 63px 32px;
+}
+
+section.experience > div {
+
+}
+
+section.experience > div > h2 {
+    color: #F9F9F9;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+.completed-projects {
+    color: #F9F9F9;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    margin-top: 16px;
+}
+
+section.experience > div > h3 {
+    color: #F9F9F9;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 62px;
+    margin: 19px 0 19px 0;
+}
+
+.description {
+    color: #F9F9F9;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 45px;
+    width: 570px;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    flex-direction: column;
+}
+
+section.skills > h3 {
+    color: #222;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+section.skills > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+section.skills > div > div {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 240px;
+
+
+}
+
+section.skills > div > div > div {
+    width: 98px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+svg:nth-child(2) {
+    position: absolute;
+
+}
+
+section.skills > div > div > h5 {
+    color: #222;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    margin: 51px 0 12px 0;
+}
+
+section.skills > div > div > p {
+    color: rgba(34, 34, 34, 0.50);
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+    width: 240px;
+}
+
+.portfolio {
+    width: 100%;
+}
+
+section.portfolio > h2 {
+    color: #222;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 123.6%;
+    margin-bottom: 64px;
+    text-transform: capitalize;
+}
+
+section.portfolio > div {
+
+    display: grid;
+    grid-template-columns:  310px 310px 310px;
+    grid-template-rows: 300px 300px;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.customer-focus {
+    background: #FF7315;
+    height: 643px;
+    width: 1440px;
+    padding: 48px 150px 185px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 111px;
+}
+
+section.customer-focus > h2 {
+    color: #F9F9F9;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    width: 609px;
+
+}
+
+section.customer-focus > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 82px;
+}
+
+section.customer-focus > div > div {
+    border-radius: 30px;
+    background: #F9F9F9;
+    width: 529px;
+    height: 179px;
+}
+
+section.customer-focus > div > div:nth-child(1) {
+    padding: 24px 55px 47px 55px;
+}
+
+section.customer-focus > div > div:nth-child(2) {
+    padding: 24px 55px 11px 55px;
+}
+
+section.customer-focus > div > div > p {
+    color: #222;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.price-plans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 64px;
+}
+
+section.price-plans > h2 {
+    color: #222;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 123.6%;
+    text-transform: capitalize;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 67px;
+    margin-bottom: 36px;
+    padding: auto 76px auto 48px;
+}
+
+div.cards > div {
+
+    width: 335px;
+    height: 500px;
+    border-radius: 15px;
+    background: #F9F9F9;
+    box-shadow: 0 20px 40px 0 rgba(255, 115, 21, 0.10);
+}
+
+div.cards > div > div {
+    width: 335px;
+    height: 66px;
+    border-radius: 15px 15px 0 0;
+    background: #FF9B70;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+div.cards > div > div > h5 {
+    color: #F9F9F9;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 123.6%;
+    text-transform: capitalize;
+}
+
+div.cards > div > h4 {
+    color: #2B2B2B;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    margin: 36px 98px 29px 98px;
+
+}
+
+div.cards > div > h4 > span {
+    margin-left: 12px;
+    color: #2B2B2B;
+    font-kerning: none;
+    font-feature-settings: 'calt' off;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: capitalize;
+    opacity: 0.5;
+}
+
+div.cards > div > ul {
+    margin: auto 76px auto 38px;
+}
+
+div.cards > div > ul > li {
+    color: #222222;
+    font-kerning: none;
+    font-feature-settings: 'calt' off;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+    opacity: 0.6;
+    margin-bottom: 16px;
+
+}
+
+div.cards > div > ul > li.included-items {
+    opacity: 1;
+
+}
+
+div.cards > div > ul > li.included-items > svg {
+    opacity: 1;
+}
+
+div.cards > div > ul > li > svg {
+    opacity: 0.9;
+    vertical-align: middle;
+    margin-right: 14.11px;
+
+}
+
+.email {
+    border-radius: 25px;
+    background: #FF7315;
+    width: 100%;
+    height: 224px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 333px;
+}
+
+div.email p {
+    color: #F9F9F9;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 62px;
+    width: 343px;
+}
+
+div.email button {
+    width: 259px;
+    height: 70px;
+    border-radius: 10px;
+    background: #F9F9F9;
+    box-shadow: 0 0.927px 1.924px 0 rgba(0, 0, 0, 0.01);
+}
+
+div.email a {
+    color: #222;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.blog {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 48px;
+}
+
+section.blog h2 {
+    color: #222;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+section.blog > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+section.blog > div > div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    width: 270px;
+    height: 364px;
+    border-radius: 15px;
+    background: #F9F9F9;
+    box-shadow: 0 7px 20px 0 rgba(0, 0, 0, 0.07);
+    padding: 14.76px 16px 57px 14px;
+}
+
+section.blog > div > div > img {
+    border-radius: 15px;
+
+}
+
+section.blog > div > div > h6 {
+    color: #222;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    margin: 24px 0 12px 0;
+}
+
+section.blog > div > div > p {
+    color: rgba(34, 34, 34, 0.50);
+    font-kerning: none;
+    font-feature-settings: 'calt' off;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+
+footer {
+    padding: 64px 687px 79px 595px;
+    background: #F1F1F1;
+    height: 170px;
+    width: 100%;
+
+}
+
+footer p {
+    color: #222;
+    font-size: 18px;
+    font-weight: 500;
+    width: 158px;
+}

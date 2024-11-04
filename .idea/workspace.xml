@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ad8b12-29ea-4a0f-b345-de1523498d16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mohammad-Reza-site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/Mohammad-Reza.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/booklet-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/booklet-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/documents.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/house.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/notes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sign-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="92ad8b12-29ea-4a0f-b345-de1523498d16" name="Changes" comment="[add]:[file]: .idea">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +15,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;s3r3nd1pity&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/s3r3nd1pity/EXAM.git&quot;,
+    &quot;accountId&quot;: &quot;5c4976be-5934-4607-8831-0f29175505a3&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oH0LLmE1ouIdgernX6qKH3aq03" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,7 +52,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,10 +81,74 @@
       <option name="presentableId" value="Default" />
       <updated>1730511139259</updated>
       <workItem from="1730511140305" duration="736000" />
+      <workItem from="1730511946963" duration="2300000" />
+      <workItem from="1730697257015" duration="134000" />
     </task>
+    <task id="LOCAL-00001" summary="[add]:[file]: image">
+      <option name="closed" value="true" />
+      <created>1730588378940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588378940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[add]:[file]: Mohammad-Reza-site.html">
+      <option name="closed" value="true" />
+      <created>1730588445311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588445311</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[add]:[file]: rest.css">
+      <option name="closed" value="true" />
+      <created>1730588509247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588509247</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[add]:[file]: style.css">
+      <option name="closed" value="true" />
+      <created>1730588522298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588522298</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[add]:[file]: EXAM.iml">
+      <option name="closed" value="true" />
+      <created>1730588561368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588561368</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[add]:[file]: .idea">
+      <option name="closed" value="true" />
+      <created>1730588779261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730588779261</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add]:[file]: image" />
+    <MESSAGE value="[add]:[file]: Mohammad-Reza-site.html" />
+    <MESSAGE value="[add]:[file]: rest.css" />
+    <MESSAGE value="[add]:[file]: style.css" />
+    <MESSAGE value="[add]:[file]: EXAM.iml" />
+    <MESSAGE value="[add]:[file]: .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]:[file]: .idea" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
